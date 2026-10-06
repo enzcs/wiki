@@ -1,0 +1,62 @@
+<<<<<<< HEAD
+site_name: Base de Connaissances IT
+site_description: Procédures de déploiement et d'administration
+site_author: Enzo Rabet
+
+theme:
+  name: material
+  language: fr
+  palette:
+    scheme: default
+    primary: black
+    accent: black
+  features:
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Accueil: index.md
+  - Procédures:
+      - Faire une machine Linux: procedures/machine-linux.md
+      - Faire une machine Windows: procedures/machine-windows.md
+      - Mettre en place un Active Directory: procedures/active-directory.md
+      - Mettre en place un DNS: procedures/dns.md
+      - Mettre en place un DHCP: procedures/dhcp.md
+      - Mettre en place Zabbix: procedures/zabbix.md
+      - Mettre en place GLPI: procedures/glpi.md
+      - Mettre en place Graylog: procedures/graylog.md
+      - Mettre en place Apache Guacamole: procedures/apache-guacamole.md
+      - Mettre en place pfSense: procedures/pfsense.md
+      - Mettre en place nftables: procedures/nftables.md
+=======
+site_name: Base de Connaissances IT
+site_description: Procédures de déploiement et d'administration
+site_author: Enzo Rabet
+
+theme:
+  name: material
+  language: fr
+  palette:
+    scheme: default
+    primary: black
+    accent: black
+  features:
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Accueil: index.md
+  - Procédures:
+      - Faire une machine Linux: procedures/machine-linux.md
+      - Faire une machine Windows: procedures/machine-windows.md
+      - Mettre en place un Active Directory: procedures/active-directory.md
+      - Mettre en place un DNS: procedures/dns.md
+      - Mettre en place un DHCP: procedures/dhcp.md
+      - Mettre en place Zabbix: procedures/zabbix.md
+      - Mettre en place GLPI: procedures/glpi.md
+      - Mettre en place Graylog: procedures/graylog.md
+      - Mettre en place Apache Guacamole: procedures/apache-guacamole.md
+      - Mettre en place pfSense: procedures/pfsense.md
+      - Mettre en place nftables: procedures/nftables.md
+>>>>>>> 8d4303aa4e9feab4c69341cfd070f7442de2fac1
+      - Mettre en place un VPN: procedures/vpn.md
